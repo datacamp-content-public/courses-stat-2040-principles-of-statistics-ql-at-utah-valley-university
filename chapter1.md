@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Working with the RStudio IDE (Part 1)'
+description: 'In this chapter, you will learn to get familiar with R and RStudio.  Garrett will take you through steps of downloading R to being familiar with the RStudio environment.'
 ---
 
 ## Example coding exercise
